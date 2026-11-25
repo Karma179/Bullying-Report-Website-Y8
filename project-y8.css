@@ -1,0 +1,83 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.item {
+    width: 1000px;
+    height: 825px;
+    background-color: lightgray;
+    margin-right: 10px;
+    justify-content: center;
+    border-radius: 20px;
+    border: solid black;
+}
+
+.item3 {
+    height: 200px;
+    margin-right: 5px;
+    background-color: lightgray;
+    margin-bottom: 30px;
+}
+
+.item4 {
+    height: 200px;
+    background-color: lightgray;
+    margin-bottom: 30px;
+}
+
+.item2 {
+    width: 590px;
+    height: 500px;
+    background-color: white;
+}
+
+.TAGteams {
+    border: 5px solid blue;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 300px;
+    margin-left: 5px;
+}
+
+.TAGteam {
+    border: 5px solid blue;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 640px;
+    height: 50px;
+    margin-left: 5px;
+}
+
+.TAGteaM {
+    border: 5px solid blue;
+    border-radius: 10px;
+    padding: 5px;
+    margin-bottom: 10px;
+    width: 640px;
+    height: 150px;
+    margin-left: 5px;
+}
+
+.Jose {
+    display: block;
+    margin-left: 5px;
+}
+
+.Lara {
+    display: block;
+    background-color: blue;
+    color: white;
+    padding: 15px;
+    width: 650px;
+    border-radius: 10px;
+    margin-top: 10px;
+    font-size: 20px;
+    margin-left: 5px;
+}
+
+img {
+    width: 590px;
+}
